@@ -35,6 +35,7 @@
     "siteFonts": [],
     "imageResize": true,
     "publishChangesOnly": true,
+    "publishEditFolder": true,
     "uniqCompNum": 13,
     "versionPublish": "5.9.18"
   },
